@@ -2,10 +2,19 @@
 
 <!--
 **krtanay7/krtanay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kumar-tanay97/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krtanay97/)
+
+Here are some ideas to get you started: -->
+<p align="left">
+  <a href="https://leetcode.com/u/krtanay97/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/kumar-tanay97/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 <!--
 [![LeetCode](https://leetcard.jacoblin.cool/your-leetcode-username?ext=contest)]
