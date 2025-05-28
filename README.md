@@ -3,8 +3,11 @@
 <!--
 **krtanay7/krtanay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Here are some ideas to get you started: -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kumar-tanay97/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellow?style=flat&logo=google-chrome)](https://krtanaywebsite-tanay-s-projects-8893661f.vercel.app
+ Activity)
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
