@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.linkedin.com/in/kumar-tanay97/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://krtanaywebsite-tanay-s-projects-8893661f.vercel.app" target="_blank">
+  <a href="https://krtanay007.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
